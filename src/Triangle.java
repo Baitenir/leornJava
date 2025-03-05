@@ -3,7 +3,7 @@ public class Triangle {
     int b;
     int c;
 
-    public int Area(){
+    public float Area(){
         return (a + b + c) / 2;
     }
 }
